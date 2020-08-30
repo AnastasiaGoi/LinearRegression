@@ -1,5 +1,5 @@
 ##  Двуслойная нейронная сеть для задачи многоклассовой классификации. 
-Данные: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv.        
+[Данные](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv)      
 Цель: Показать, как зависит точность и обучающая способность сети от ее сложности.   
 Шаги:  
 - Инициализация двуслойной сети 
