@@ -4,10 +4,10 @@
 
 Задачи
 - бинарной классификации 
-- многоклассовой классификации 
-Данные: 
-http://ufldl.stanford.edu/housenumbers/train_32x32.mat
-http://ufldl.stanford.edu/housenumbers/test_32x32.mat
+- многоклассовой классификации   
+Данные:   
+http://ufldl.stanford.edu/housenumbers/train_32x32.mat  
+http://ufldl.stanford.edu/housenumbers/test_32x32.mat 
 
 Цель: Ознакомиться с основными метриками, важными для задачи классификации. Так как методу необходим гиперпараметр (hyperparameter) - количество соседей, мы выберем его на основе кросс-валидации (cross-validation)
 
