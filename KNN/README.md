@@ -1,4 +1,4 @@
-# Метод К-ближайших соседей (K-neariest neighbor classifier)
+# K-neariest neighbor classifier
 
 ## Классификатор на основе метода K-ближайших соседей
 
